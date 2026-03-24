@@ -1,3 +1,4 @@
 # Denon-AVR-Xx100-Control-over-Windows-App
 This Windows app allows you to control a Denon AVR Xx100 receiver. You can adjust the volume in steps of 2 or 0.5 units, as well as modify the subwoofer level. The four turquoise buttons let you instantly apply predefined volume levels. Additionally, four quick‑access buttons provide direct access to saved settings. The receiver can also be powered on or off and muted as needed.
+
 This application is developed in Visual Studio using C# and the Windows Presentation Foundation (WPF) framework.
