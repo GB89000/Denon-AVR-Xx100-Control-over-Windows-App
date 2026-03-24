@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Denon.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP_Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.178.69</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Office</Value>
+    </Setting>
+    <Setting Name="QSelect1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="QSelect2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="QSelect3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="QSelect4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="QSName1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QSN1</Value>
+    </Setting>
+    <Setting Name="QSName2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QSN2</Value>
+    </Setting>
+    <Setting Name="QSName3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QSN3</Value>
+    </Setting>
+    <Setting Name="QSName4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QSN4</Value>
+    </Setting>
+    <Setting Name="QSetVol1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="QSetVol2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="QSetVol3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">35</Value>
+    </Setting>
+    <Setting Name="QSetVol4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

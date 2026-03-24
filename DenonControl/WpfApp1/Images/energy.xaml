@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is NOT compatible with Silverlight-->
+<Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+  <Canvas Name="Layer_1" Width="100" Height="100" Canvas.Left="0" Canvas.Top="0">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="0" Y="0"/>
+    </Canvas.RenderTransform>
+    <Canvas.Resources/>
+    <!--Unknown tag: sodipodi:namedview-->
+    <Canvas Name="g6">
+      <Canvas.RenderTransform>
+        <ScaleTransform ScaleX="0.1953125" ScaleY="0.1953125"/>
+      </Canvas.RenderTransform>
+      <Canvas Name="g4">
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2" Fill="#000000">
+          <Path.Data>
+            <PathGeometry Figures="m 366.463 172.539 c -8.552 -9.595 -23.262 -10.439 -32.858 -1.885 -9.595 8.552 -10.439 23.263 -1.885 32.858 16.561 18.578 25.681 42.532 25.682 67.449 0 55.913 -45.489 101.402 -101.402 101.402 -55.913 0 -101.402 -45.489 -101.402 -101.402 0 -24.919 9.12 -48.873 25.682 -67.449 8.554 -9.595 7.709 -24.306 -1.885 -32.86 -9.595 -8.552 -24.306 -7.708 -32.86 1.885 -24.171 27.114 -37.485 62.068 -37.485 98.423 0.002 81.58 66.371 147.949 147.95 147.949 81.579 0 147.948 -66.369 147.948 -147.949 -0.002 -36.354 -13.314 -71.308 -37.485 -98.421 z" FillRule="NonZero"/>
+          </Path.Data>
+        </Path>
+      </Canvas>
+    </Canvas>
+    <Canvas Name="g12">
+      <Canvas.RenderTransform>
+        <ScaleTransform ScaleX="0.1953125" ScaleY="0.1953125"/>
+      </Canvas.RenderTransform>
+      <Canvas Name="g10">
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path8" Fill="#000000">
+          <Path.Data>
+            <PathGeometry Figures="m 256 93.091 c -12.853 0 -23.273 10.42 -23.273 23.273 v 99.739 c 0 12.853 10.42 23.273 23.273 23.273 12.853 0 23.273 -10.42 23.273 -23.273 v -99.739 c 0 -12.853 -10.42 -23.273 -23.273 -23.273 z" FillRule="NonZero"/>
+          </Path.Data>
+        </Path>
+      </Canvas>
+    </Canvas>
+    <Canvas Name="g18">
+      <Canvas.RenderTransform>
+        <ScaleTransform ScaleX="0.1953125" ScaleY="0.1953125"/>
+      </Canvas.RenderTransform>
+      <Canvas Name="g16">
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path14" Fill="#000000">
+          <Path.Data>
+            <PathGeometry Figures="M 256 0 C 114.842 0 0 114.842 0 256 0 397.158 114.842 512 256 512 397.158 512 512 397.158 512 256 512 114.842 397.158 0 256 0 Z m 0 465.455 C 140.505 465.455 46.545 371.494 46.545 256 46.545 140.506 140.505 46.545 256 46.545 c 115.495 0 209.455 93.962 209.455 209.455 0 115.493 -93.962 209.455 -209.455 209.455 z" FillRule="NonZero"/>
+          </Path.Data>
+        </Path>
+      </Canvas>
+    </Canvas>
+  </Canvas>
+</Viewbox>
